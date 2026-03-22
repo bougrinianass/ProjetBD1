@@ -1,0 +1,4 @@
+create table Personne(
+    id int,
+    nom VARCHAR(80)
+)
